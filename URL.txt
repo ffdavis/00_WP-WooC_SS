@@ -1,0 +1,5 @@
+# Guides used for creating userdata and userdata-test.sh:
+#
+# https://websiteforstudents.com/install-wordpress-woocommerce-plugin-on-ubuntu-17-04-17-10-with-apache2-support/
+# https://www.linode.com/docs/web-servers/lamp/install-lamp-stack-on-ubuntu-18-04/
+# https://www.linode.com/docs/websites/cms/install-wordpress-using-wp-cli-on-ubuntu-18-04/
