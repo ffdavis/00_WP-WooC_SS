@@ -7,3 +7,6 @@
 
 # .tfvars files
 # *.tfvars
+
+# URL text files
+URL.txt
